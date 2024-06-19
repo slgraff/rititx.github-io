@@ -306,8 +306,6 @@ Emotional Engagement: Ritika employs storytelling techniques that evoke emotions
 
 Clear Communication: Her ability to communicate complex data insights clearly and concisely is a hallmark of her storytelling. Ritika uses simple language, avoids jargon, and explains technical terms when necessary, ensuring her message is understood by all.
 
-Interactivity: Ritika often incorporates interactive elements into her data stories, such as interactive dashboards and visualizations, allowing her audience to explore the data further and engage with the story on a deeper level.
-
 By showcasing these data storytelling skills on her project portfolio website, Ritika Bagga demonstrates her ability to not only analyze data but also to craft compelling stories that drive understanding and action.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
           </div>
