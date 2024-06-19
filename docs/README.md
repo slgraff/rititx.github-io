@@ -245,7 +245,7 @@ Project Management: Her Python skills extend to managing data analysis projects 
 
 
 Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set, enabling her to tackle complex data challenges and deliver insightful, data-driven solutions.</p>
-            <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
+            <a href="#" class="btn btn-outline-primary"></a>
           </div>
         </div>
       </div>
@@ -273,7 +273,7 @@ Project Management: Ritika has experience managing data visualization projects f
 
 
 Overall, Ritika Bagga's combination of technical proficiency, design sensibility, and analytical acumen makes her a valuable asset in the field of data visualization.</p>
-            <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
+            <a href="#" class="btn btn-outline-primary"></a>
           </div>
         </div>
       </div>
@@ -300,7 +300,7 @@ Data Analysis: Ritika uses SQL for data analysis tasks, including aggregations, 
 
 
 By highlighting these skills on her project portfolio website, Ritika Bagga effectively demonstrates her comprehensive expertise in SQL, showcasing her ability to handle a wide range of database-related tasks with proficiency and precision.</p>
-            <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
+            <a href="#" class="btn btn-outline-primary"></a>
           </div>
         </div>
       </div>
@@ -329,7 +329,7 @@ Clear Communication: Her ability to communicate complex data insights clearly an
 
 
 By showcasing these data storytelling skills on her project portfolio website, Ritika Bagga demonstrates her ability to not only analyze data but also to craft compelling stories that drive understanding and action.</p>
-            <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
+            <a href="#" class="btn btn-outline-primary"></a>
           </div>
         </div>
       </div>
