@@ -149,7 +149,7 @@ html {
 <section id='about' class="about-section">
   <div class="container">
     <h2>About</h2>
-    <img src="images/about/1.jpg" alt="About Me">
+    <img src="![PowerBIchart](https://github.com/rititx/rititx.github-io/assets/150653991/7d011ec6-f5fd-4ada-9b19-018478051570)" alt="About Me">
     <p>​Ritika Bagga is a skilled and experienced Data Analyst with a proven track record of leveraging data to drive business growth and optimization.In her role as a self-employed Data Consultant, Ritika helps clients harness the power of data to improve their performance, optimize business processes, and achieve their strategic goals.
 
 With a diverse background spanning data analysis, HR management, and business consulting, Ritika brings a unique and well-rounded perspective to her work.
@@ -171,7 +171,7 @@ In addition to her professional accomplishments, Ritika is an avid learner and e
       <!-- Project 1 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src="images/projects/1.jpg" class="card-img-top" alt="Project 1">
+          <img src="![power-bi-dashboardsalesdata](https://github.com/rititx/rititx.github-io/assets/150653991/867739b4-d8f2-4c8c-b783-a7bcdf59dc14)" class="card-img-top" alt="Project 1">
           <div class="card-body">
             <h5 class="card-title">Project 1: Sales Data Analysis and Visualization</h5>
             <p class="card-text"> In this project, I analyzed a comprehensive sales dataset for an e-commerce company to uncover key insights and trends. Using Python libraries such as Pandas and NumPy for data cleaning and manipulation, I created interactive dashboards with Tableau to visualize sales performance, customer behavior, and product trends. The visualizations helped stakeholders identify high-performing products, optimize marketing strategies, and improve overall business performance.</p>
@@ -183,7 +183,7 @@ In addition to her professional accomplishments, Ritika is an avid learner and e
       <!-- Project 2 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2">
+          <img src="![customer segmentation power BI](https://github.com/rititx/rititx.github-io/assets/150653991/643d6ab1-bff1-4a7a-bf8e-1d1eda5de09f)" class="card-img-top" alt="Project 2">
           <div class="card-body">
             <h5 class="card-title">Project 2: Customer Segmentation Using K-Means Clustering</h5>
             <p class="card-text"> 
@@ -197,7 +197,8 @@ This project focused on segmenting customers into distinct groups based on their
       <!-- Project 3 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src="images/projects/3.jpg" class="card-img-top" alt="Project 3">
+          <img src="![financial dashboard](https://github.com/rititx/rititx.github-io/assets/150653991/9a6eb186-e4f8-42b8-b025-053da43d3bd8)
+" class="card-img-top" alt="Project 3">
           <div class="card-body">
             <h5 class="card-title">Project 3: Financial Time Series Forecasting</h5>
             <p class="card-text">In this project, I developed a financial forecasting model to predict stock prices using historical data. Leveraging the yfinance library, I collected and analyzed stock data for SPY. I applied time series analysis techniques and used Facebook's Prophet library for forecasting. The model's performance was evaluated through cross-validation and visualized using Plotly. This project provided actionable insights for investment decisions and risk management.
@@ -222,7 +223,7 @@ These projects demonstrate my ability to analyze complex datasets, derive meanin
       <!-- Skill 1 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src="images/skills/1.png" class="card-img-top" alt="Python">
+          <img src="" class="card-img-top" alt="Python">
           <div class="card-body">
             <h5 class="card-title">Python</h5>
             <p class="card-text">
@@ -232,7 +233,7 @@ These projects demonstrate my ability to analyze complex datasets, derive meanin
 Data Manipulation: Ritika is adept at using libraries such as Pandas and NumPy for data manipulation and analysis. She efficiently handles large datasets, performing operations like filtering, grouping, and aggregating data to extract meaningful insights.
 
 
-\Data Cleaning: She possesses strong skills in data cleaning, ensuring that datasets are free from inconsistencies, missing values, and errors. Ritika uses techniques to preprocess data, making it suitable for analysis and modeling.
+Data Cleaning: She possesses strong skills in data cleaning, ensuring that datasets are free from inconsistencies, missing values, and errors. Ritika uses techniques to preprocess data, making it suitable for analysis and modeling.
 
 
 Data Visualization: Ritika excels in data visualization, utilizing libraries like Matplotlib, Seaborn, and Plotly to create informative and visually appealing charts and graphs. Her visualizations help in understanding complex data patterns and communicating insights effectively.
@@ -252,7 +253,7 @@ Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set,
       <!-- Skill 2 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src="images/skills/2.png" class="card-img-top" alt="Data Visualization">
+          <img src="![power-bi-dashboard data visual](https://github.com/rititx/rititx.github-io/assets/150653991/1da887b9-a8bb-4d77-9fe3-89ea61fe54a4)" class="card-img-top" alt="Data Visualization">
           <div class="card-body">
             <h5 class="card-title">Data Visualization</h5>
             <p class="card-text">Ritika Bagga is a proficient data visualization specialist with a strong skill set that encompasses various aspects of the field. Here are some key points about her skills:
@@ -280,7 +281,7 @@ Overall, Ritika Bagga's combination of technical proficiency, design sensibility
       <!-- Skill 3 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src="images/skills/3.png" class="card-img-top" alt="SQL">
+          <img src="" class="card-img-top" alt="SQL">
           <div class="card-body">
             <h5 class="card-title">SQL</h5>
             <p class="card-text">
@@ -307,7 +308,7 @@ By highlighting these skills on her project portfolio website, Ritika Bagga effe
       <!-- Skill 4 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src="images/skills/4.png" class="card-img-top" alt="Data Storytelling">
+          <img src="![DataStorytelling](https://github.com/rititx/rititx.github-io/assets/150653991/4dc2c864-aad1-4df3-96e7-c5244b50d241)" class="card-img-top" alt="Data Storytelling">
           <div class="card-body">
             <h5 class="card-title">Data Storytelling</h5>
             <p class="card-text">Ritika Bagga excels in data storytelling, a critical component of her data analysis expertise. Her ability to convey data-driven insights in a compelling and understandable manner is showcased through the following skills:
