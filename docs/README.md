@@ -236,10 +236,6 @@ Data Visualization: Ritika excels in data visualization, utilizing libraries lik
 
 Web Scraping: She is proficient in web scraping using libraries such as BeautifulSoup and Scrapy. Ritika can extract data from websites, preprocess it, and integrate it into her analysis, demonstrating her ability to gather and utilize external data sources.
 
-Statistical Analysis: Ritika has a strong foundation in statistical analysis and applies Python's statistical libraries like SciPy and StatsModels to perform hypothesis testing, regression analysis, and other statistical evaluations.
-
-Machine Learning: She has experience in implementing machine learning algorithms using Scikit-learn. Ritika builds and evaluates models for classification, regression, clustering, and more, applying machine learning to solve real-world problems.
-
 Project Management: Her Python skills extend to managing data analysis projects from start to finish. Ritika ensures proper documentation, version control using Git, and collaborative development practices.
 
 Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set, enabling her to tackle complex data challenges and deliver insightful, data-driven solutions.</p>
@@ -302,8 +298,6 @@ By highlighting these skills on her project portfolio website, Ritika Bagga effe
 
 Narrative Construction: Ritika masterfully constructs narratives that transform complex data sets into engaging stories. She identifies the key message and tailors her narrative to highlight the most significant findings, making the data relatable and impactful.
 
-Audience Understanding: She has a keen sense of her audience's needs and tailors her storytelling approach accordingly. Whether presenting to technical teams, executives, or non-technical stakeholders, Ritika ensures her story is accessible and relevant to her audience.
-
 Visualization Techniques: Ritika uses effective visualization techniques to support her narratives. She selects the most appropriate charts, graphs, and visuals that best represent the data, ensuring clarity and enhancing the story's impact.
 
 Context and Insights: She provides context to the data, explaining the background, methodology, and significance of the findings. Ritika's insights go beyond mere data presentation, offering interpretations and implications that guide decision-making.
@@ -313,12 +307,6 @@ Emotional Engagement: Ritika employs storytelling techniques that evoke emotions
 Clear Communication: Her ability to communicate complex data insights clearly and concisely is a hallmark of her storytelling. Ritika uses simple language, avoids jargon, and explains technical terms when necessary, ensuring her message is understood by all.
 
 Interactivity: Ritika often incorporates interactive elements into her data stories, such as interactive dashboards and visualizations, allowing her audience to explore the data further and engage with the story on a deeper level.
-
-Structured Approach: She follows a structured approach to data storytelling, starting with a compelling introduction, followed by detailed analysis, and concluding with actionable insights and recommendations. This ensures a logical flow and keeps the audience engaged.
-
-Feedback Integration: Ritika values feedback and continuously refines her storytelling techniques. She incorporates audience feedback to improve her presentations, making them more effective and engaging over time.
-
-Ethical Considerations: She is mindful of ethical considerations in data storytelling, ensuring that her narratives are accurate, unbiased, and transparent. Ritika avoids misrepresenting data and provides a balanced view of the findings.
 
 By showcasing these data storytelling skills on her project portfolio website, Ritika Bagga demonstrates her ability to not only analyze data but also to craft compelling stories that drive understanding and action.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
@@ -338,7 +326,7 @@ By showcasing these data storytelling skills on her project portfolio website, R
         <p><i class="fas fa-envelope"></i> ritika1@yahoo.com</p>
       </div>
       <div class="col-lg-6">
-        <p><i class="fas fa-phone"></i> 415xxxxxxx</p>
+        <p><i class="fas fa-phone"></i> 214-864-3320</p>
       </div>
     </div>
     <div class="row">
