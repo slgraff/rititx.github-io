@@ -240,12 +240,6 @@ Statistical Analysis: Ritika has a strong foundation in statistical analysis and
 
 Machine Learning: She has experience in implementing machine learning algorithms using Scikit-learn. Ritika builds and evaluates models for classification, regression, clustering, and more, applying machine learning to solve real-world problems.
 
-Time Series Analysis: Ritika specializes in time series analysis and forecasting, using libraries such as Prophet and statsmodels. She effectively models and predicts trends, seasonal patterns, and future values in time-dependent data.
-
-Automation and Scripting: She leverages Python for automation, writing scripts to streamline repetitive tasks and workflows. Her automation skills improve efficiency and productivity in data-related processes.
-
-APIs and Integration: Ritika is skilled in working with APIs to fetch data from various sources and integrating Python with other tools and technologies, enhancing the functionality and reach of her projects.
-
 Project Management: Her Python skills extend to managing data analysis projects from start to finish. Ritika ensures proper documentation, version control using Git, and collaborative development practices.
 
 Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set, enabling her to tackle complex data challenges and deliver insightful, data-driven solutions.</p>
@@ -261,10 +255,6 @@ Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set,
             <h5 class="card-title">Data Visualization</h5>
             <p class="card-text">Ritika Bagga is a proficient data visualization specialist with a strong skill set that encompasses various aspects of the field. Here are some key points about her skills:
 
-Tool Proficiency: Ritika is adept at using a range of data visualization tools such as Tableau, Power BI, and D3.js. She also has experience with Python libraries like Matplotlib, Seaborn, and Plotly, as well as R packages like ggplot2 and Shiny.
-
-Design Principles: She has a solid understanding of design principles, including color theory, typography, and layout, which she applies to create visually appealing and easily interpretable charts and dashboards.
-
 Data Interpretation: Ritika excels at interpreting complex data sets and transforming them into clear, insightful visualizations that tell a story. Her ability to identify key trends and patterns is a significant asset.
 
 Interactive Dashboards: She is skilled in creating interactive dashboards that allow users to explore data dynamically. These dashboards are often equipped with filters, drill-down capabilities, and other interactive elements to enhance user engagement.
@@ -274,8 +264,6 @@ Data Cleaning and Preparation: Ritika has a strong background in data cleaning a
 Communication: Her communication skills are excellent, enabling her to convey complex data insights to both technical and non-technical stakeholders effectively.
 
 Project Management: Ritika has experience managing data visualization projects from conception to completion, including requirement gathering, design, implementation, and iteration based on feedback.
-
-Analytical Thinking: She possesses strong analytical thinking skills, allowing her to understand the business context and objectives behind data visualization projects, ensuring that her work aligns with organizational goals.
 
 Overall, Ritika Bagga's combination of technical proficiency, design sensibility, and analytical acumen makes her a valuable asset in the field of data visualization.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
@@ -289,7 +277,7 @@ Overall, Ritika Bagga's combination of technical proficiency, design sensibility
           <div class="card-body">
             <h5 class="card-title">SQL</h5>
             <p class="card-text">
-Ritika Bagga's proficiency in SQL is evident in her project portfolio, showcasing a comprehensive skill set that highlights her ability to manage and manipulate data efficiently. Here are the key aspects of her SQL skills:
+Ritika Bagga's proficiency in SQL is evident in her project portfolio, showcasing a comprehensive skill set that highlights her ability to manage and manipulate data efficiently. Here are her SQL skills:
 
 Database Design and Management: Ritika has experience in designing, creating, and managing relational databases. She is proficient in defining schemas, establishing relationships, and ensuring data integrity through normalization and the use of constraints.
 
@@ -297,19 +285,7 @@ Complex Queries: She excels at writing complex SQL queries to retrieve and manip
 
 Data Manipulation: Ritika is adept at using Data Manipulation Language (DML) commands such as SELECT, INSERT, UPDATE, and DELETE. She ensures efficient data operations while maintaining data integrity and consistency.
 
-Stored Procedures and Functions: She has experience creating and managing stored procedures and functions to encapsulate business logic within the database, enhancing performance and reusability of code.
-
-Performance Optimization: Ritika is skilled in optimizing SQL queries and database performance. She uses indexing, query optimization techniques, and execution plan analysis to ensure efficient data retrieval and processing.
-
-Transaction Management: She understands the importance of transaction management and is proficient in using commands like BEGIN, COMMIT, and ROLLBACK to maintain data consistency and handle errors effectively.
-
 Data Analysis: Ritika uses SQL for data analysis tasks, including aggregations, window functions (like RANK, ROW_NUMBER, and PARTITION BY), and complex calculations to derive meaningful insights from data.
-
-Data Integration: She is experienced in integrating SQL with other tools and technologies. This includes using SQL with ETL (Extract, Transform, Load) processes, connecting SQL databases to BI tools, and integrating SQL with programming languages like Python.
-
-Security and Access Control: Ritika ensures data security and access control by managing user permissions, roles, and privileges. She uses SQL commands to grant and revoke access, ensuring that only authorized users can interact with the database.
-
-Documentation and Best Practices: She follows best practices in SQL coding, including proper documentation, use of aliases, and writing readable and maintainable code. Ritika ensures her SQL scripts are well-documented, making it easy for others to understand and maintain her work.
 
 By highlighting these skills on her project portfolio website, Ritika Bagga effectively demonstrates her comprehensive expertise in SQL, showcasing her ability to handle a wide range of database-related tasks with proficiency and precision.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
