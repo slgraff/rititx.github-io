@@ -225,17 +225,24 @@ These projects demonstrate my ability to analyze complex datasets, derive meanin
           <img src="images/skills/1.png" class="card-img-top" alt="Python">
           <div class="card-body">
             <h5 class="card-title">Python</h5>
-            <p class="card-text">Ritika Bagga is a highly skilled Python programmer with a robust set of capabilities tailored for data analysis. Her proficiency in Python is demonstrated through various projects and applications, highlighting her technical prowess and analytical acumen.
+            <p class="card-text">
+              Ritika Bagga is a highly skilled Python programmer with a robust set of capabilities tailored for data analysis. Her proficiency in Python is demonstrated through various projects and applications, highlighting her technical prowess and analytical acumen.
+
 
 Data Manipulation: Ritika is adept at using libraries such as Pandas and NumPy for data manipulation and analysis. She efficiently handles large datasets, performing operations like filtering, grouping, and aggregating data to extract meaningful insights.
 
-Data Cleaning: She possesses strong skills in data cleaning, ensuring that datasets are free from inconsistencies, missing values, and errors. Ritika uses techniques to preprocess data, making it suitable for analysis and modeling.
+
+\Data Cleaning: She possesses strong skills in data cleaning, ensuring that datasets are free from inconsistencies, missing values, and errors. Ritika uses techniques to preprocess data, making it suitable for analysis and modeling.
+
 
 Data Visualization: Ritika excels in data visualization, utilizing libraries like Matplotlib, Seaborn, and Plotly to create informative and visually appealing charts and graphs. Her visualizations help in understanding complex data patterns and communicating insights effectively.
 
+
 Web Scraping: She is proficient in web scraping using libraries such as BeautifulSoup and Scrapy. Ritika can extract data from websites, preprocess it, and integrate it into her analysis, demonstrating her ability to gather and utilize external data sources.
 
+
 Project Management: Her Python skills extend to managing data analysis projects from start to finish. Ritika ensures proper documentation, version control using Git, and collaborative development practices.
+
 
 Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set, enabling her to tackle complex data challenges and deliver insightful, data-driven solutions.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
@@ -252,13 +259,18 @@ Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set,
 
 Data Interpretation: Ritika excels at interpreting complex data sets and transforming them into clear, insightful visualizations that tell a story. Her ability to identify key trends and patterns is a significant asset.
 
+
 Interactive Dashboards: She is skilled in creating interactive dashboards that allow users to explore data dynamically. These dashboards are often equipped with filters, drill-down capabilities, and other interactive elements to enhance user engagement.
+
 
 Data Cleaning and Preparation: Ritika has a strong background in data cleaning and preparation, ensuring that the data used in visualizations is accurate and reliable. She is proficient in using tools like SQL, Python, and Excel for data manipulation.
 
+
 Communication: Her communication skills are excellent, enabling her to convey complex data insights to both technical and non-technical stakeholders effectively.
 
+
 Project Management: Ritika has experience managing data visualization projects from conception to completion, including requirement gathering, design, implementation, and iteration based on feedback.
+
 
 Overall, Ritika Bagga's combination of technical proficiency, design sensibility, and analytical acumen makes her a valuable asset in the field of data visualization.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
@@ -274,13 +286,18 @@ Overall, Ritika Bagga's combination of technical proficiency, design sensibility
             <p class="card-text">
 Ritika Bagga's proficiency in SQL is evident in her project portfolio, showcasing a comprehensive skill set that highlights her ability to manage and manipulate data efficiently. Here are her SQL skills:
 
+
 Database Design and Management: Ritika has experience in designing, creating, and managing relational databases. She is proficient in defining schemas, establishing relationships, and ensuring data integrity through normalization and the use of constraints.
+
 
 Complex Queries: She excels at writing complex SQL queries to retrieve and manipulate data. Her skills include the use of subqueries, joins (INNER, LEFT, RIGHT, FULL), and set operations (UNION, INTERSECT, EXCEPT) to perform advanced data retrieval tasks.
 
+
 Data Manipulation: Ritika is adept at using Data Manipulation Language (DML) commands such as SELECT, INSERT, UPDATE, and DELETE. She ensures efficient data operations while maintaining data integrity and consistency.
 
+
 Data Analysis: Ritika uses SQL for data analysis tasks, including aggregations, window functions (like RANK, ROW_NUMBER, and PARTITION BY), and complex calculations to derive meaningful insights from data.
+
 
 By highlighting these skills on her project portfolio website, Ritika Bagga effectively demonstrates her comprehensive expertise in SQL, showcasing her ability to handle a wide range of database-related tasks with proficiency and precision.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
@@ -295,15 +312,21 @@ By highlighting these skills on her project portfolio website, Ritika Bagga effe
             <h5 class="card-title">Data Storytelling</h5>
             <p class="card-text">Ritika Bagga excels in data storytelling, a critical component of her data analysis expertise. Her ability to convey data-driven insights in a compelling and understandable manner is showcased through the following skills:
 
+
 Narrative Construction: Ritika masterfully constructs narratives that transform complex data sets into engaging stories. She identifies the key message and tailors her narrative to highlight the most significant findings, making the data relatable and impactful.
+
 
 Visualization Techniques: Ritika uses effective visualization techniques to support her narratives. She selects the most appropriate charts, graphs, and visuals that best represent the data, ensuring clarity and enhancing the story's impact.
 
+
 Context and Insights: She provides context to the data, explaining the background, methodology, and significance of the findings. Ritika's insights go beyond mere data presentation, offering interpretations and implications that guide decision-making.
+
 
 Emotional Engagement: Ritika employs storytelling techniques that evoke emotions, making her data presentations more memorable and persuasive. She uses real-world examples, anecdotes, and scenarios that resonate with her audience.
 
+
 Clear Communication: Her ability to communicate complex data insights clearly and concisely is a hallmark of her storytelling. Ritika uses simple language, avoids jargon, and explains technical terms when necessary, ensuring her message is understood by all.
+
 
 By showcasing these data storytelling skills on her project portfolio website, Ritika Bagga demonstrates her ability to not only analyze data but also to craft compelling stories that drive understanding and action.</p>
             <a href="#" class="btn btn-outline-primary">Link to course or bootcamp</a>
