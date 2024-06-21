@@ -304,7 +304,7 @@ By highlighting these skills on her project portfolio website, Ritika Bagga effe
       <!-- Skill 4 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src="Downloads/DataStorytelling.jpg" class="card-img-top" alt="Data Storytelling">
+          <img src=" class="card-img-top" alt="Data Storytelling">
           <div class="card-body">
             <h5 class="card-title">Data Storytelling</h5>
             <p class="card-text">Ritika Bagga excels in data storytelling, a critical component of her data analysis expertise. Her ability to convey data-driven insights in a compelling and understandable manner is showcased through the following skills:
