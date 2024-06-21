@@ -1,0 +1,6 @@
+![DataStorytelling](https://github.com/rititx/rititx.github-io/assets/150653991/baedaac4-b863-414f-b5f1-7832757193db)
+![power-bi-dashboard data visual](https://github.com/rititx/rititx.github-io/assets/150653991/b0e72a48-04b5-4860-bcc1-5376a3fbae12)
+![financial dashboard](https://github.com/rititx/rititx.github-io/assets/150653991/88c1c8ef-f46f-46bf-9dce-a4cd03b1d957)
+![customer segmentation power BI](https://github.com/rititx/rititx.github-io/assets/150653991/ffd87764-cb31-42e5-b941-ff48248eab78)
+![power-bi-dashboardsalesdata](https://github.com/rititx/rititx.github-io/assets/150653991/c07ab042-017d-4069-81a1-73d2ad1e600b)
+![PowerBIchart](https://github.com/rititx/rititx.github-io/assets/150653991/45f4f925-143c-4ac5-9d38-e1c959d9e377)
