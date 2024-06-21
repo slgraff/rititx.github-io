@@ -149,8 +149,7 @@ html {
 <section id='about' class="about-section">
   <div class="container">
     <h2>About</h2>
-    <img src= "/images/PowerBIchart.jpg" height="200">
-    [PowerBIchart](https://github.com/rititx/rititx.github-io/assets/150653991/7d011ec6-f5fd-4ada-9b19-018478051570)
+    <img src= "/images/PowerBIchart.jpg" height="200" alt="PowerBIchart">
     <p>​Ritika Bagga is a skilled and experienced Data Analyst with a proven track record of leveraging data to drive business growth and optimization.In her role as a self-employed Data Consultant, Ritika helps clients harness the power of data to improve their performance, optimize business processes, and achieve their strategic goals.
 
 With a diverse background spanning data analysis, HR management, and business consulting, Ritika brings a unique and well-rounded perspective to her work.
@@ -172,7 +171,7 @@ In addition to her professional accomplishments, Ritika is an avid learner and e
       <!-- Project 1 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src= "/images/power-bi-dashboard data visual.png" height="200">
+          <img src= "/images/power-bi-dashboard data visual.png" height="200" alt="power BI dashboard data visual">
           <div class="card-body">
             <h5 class="card-title">Project 1: Sales Data Analysis and Visualization</h5>
             <p class="card-text"> In this project, I analyzed a comprehensive sales dataset for an e-commerce company to uncover key insights and trends. Using Python libraries such as Pandas and NumPy for data cleaning and manipulation, I created interactive dashboards with Tableau to visualize sales performance, customer behavior, and product trends. The visualizations helped stakeholders identify high-performing products, optimize marketing strategies, and improve overall business performance.</p>
@@ -184,7 +183,7 @@ In addition to her professional accomplishments, Ritika is an avid learner and e
       <!-- Project 2 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src= "/images/power-bi-dashboard data visual.png" height="200">
+          <img src= "customer segmentation power BI.jpg" height="200" alt="customer segmentation power BI">
           <div class="card-body">
             <h5 class="card-title">Project 2: Customer Segmentation Using K-Means Clustering</h5>
             <p class="card-text"> 
@@ -198,7 +197,7 @@ This project focused on segmenting customers into distinct groups based on their
       <!-- Project 3 -->
       <div class="col-md-4 mb-4">
         <div class="card">
-          <img src= "/images/financial dashboard.png" height="200">
+          <img src= "/images/financial dashboard.png" height="200" alt="financial dashboard">
           <div class="card-body">
             <h5 class="card-title">Project 3: Financial Time Series Forecasting</h5>
             <p class="card-text">In this project, I developed a financial forecasting model to predict stock prices using historical data. Leveraging the yfinance library, I collected and analyzed stock data for SPY. I applied time series analysis techniques and used Facebook's Prophet library for forecasting. The model's performance was evaluated through cross-validation and visualized using Plotly. This project provided actionable insights for investment decisions and risk management.
@@ -252,7 +251,7 @@ Ritika Bagga's Python expertise is a cornerstone of her data analysis skill set,
       <!-- Skill 2 -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card">
-          <img src= "/images/power-bi-dashboard data visual.png" height="200">
+          <img src= "/images/power-bi-dashboard data visual.png" height="200" alt="Power BI Dashboard Data Visual">
           <div class="card-body">
             <h5 class="card-title">Data Visualization</h5>
             <p class="card-text">Ritika Bagga is a proficient data visualization specialist with a strong skill set that encompasses various aspects of the field. Here are some key points about her skills:
