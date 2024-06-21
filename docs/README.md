@@ -149,6 +149,7 @@ html {
 <section id='about' class="about-section">
   <div class="container">
     <h2>About</h2>
+    <img src= "/images/DataStorytelling.jpg" height="200">
     [PowerBIchart](https://github.com/rititx/rititx.github-io/assets/150653991/7d011ec6-f5fd-4ada-9b19-018478051570)
     <p>​Ritika Bagga is a skilled and experienced Data Analyst with a proven track record of leveraging data to drive business growth and optimization.In her role as a self-employed Data Consultant, Ritika helps clients harness the power of data to improve their performance, optimize business processes, and achieve their strategic goals.
 
