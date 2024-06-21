@@ -348,10 +348,6 @@ By showcasing these data storytelling skills on her project portfolio website, R
     </div>
     <div class="row">
       <div class="col-lg-2 col-md-4 mb-4">
-        <a href="https://linkedin.com/in/yourusername" target="_blank">
-          <img src="icons/linkedin.png" alt="LinkedIn" class="social-icon">
-          LinkedIn
-        </a>
       </div>
       <div class="col-lg-2 col-md-4 mb-4">
         <a href="https://twitter.com/yourusername" target="_blank">
@@ -366,16 +362,8 @@ By showcasing these data storytelling skills on her project portfolio website, R
         </a>
       </div>
       <div class="col-lg-2 col-md-4 mb-4">
-        <a href="https://medium.com/@yourusername" target="_blank">
-          <img src="icons/medium.png" alt="Medium" class="social-icon">
-          Medium
-        </a>
       </div>
       <div class="col-lg-2 col-md-4 mb-4">
-        <a href="https://youtube.com/c/yourchannel" target="_blank">
-          <img src="icons/youtube.png" alt="YouTube" class="social-icon">
-          YouTube
-        </a>
       </div>
     </div>
   </div>
